@@ -1,5 +1,7 @@
 # Arapov
 
+![image](https://github.com/laflare247/ArapovKISP492/blob/dfb23fda759c58f99ef4cd2813b9ef6c0e2545ce/photo_2025-02-01_20-09-24.jpg)
+
 Перед началой установки, нужно установить Linux Oracle на VirtualBox, для этого нужно:
 
 Иметь образ Linux
